@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: violet;
+}
+
+h1{
+   background-color: black;
+   font-size: 5rem;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px seagreen;
+
+}
+
+footer {
+  color: brown;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.d {
+background-image: url("images/dog.png");
+}
+
+.a {
+background-image: url("images/cat.png");
+}
+
+.i {
+  background-image: url("images/lion.png");
+}
+
+.s {
+background-image: url("images/frog.png");
+}
+
+.y {
+background-image: url("images/fox.png");
+
+}
+
+.m {
+background-image: url("images/cow.png");
+}
+
+.e {
+background-image: url("images/goat.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: mediumseagreen;
+}
+
+.sounds {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: black;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: navajowhite;
+}
